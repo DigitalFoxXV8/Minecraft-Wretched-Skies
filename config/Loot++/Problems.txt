@@ -1,0 +1,235 @@
+The following problems were encountered while loading the config files:
+entity_drops.cfg 'removing' #1: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #2: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #3: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #4: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #5: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #6: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #7: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #8: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #9: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #10: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #11: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #12: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #13: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #14: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #15: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #16: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #17: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #18: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #19: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #20: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #21: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #22: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #23: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #24: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #25: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #26: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #27: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #28: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #29: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #30: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #31: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #32: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #33: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #34: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #35: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #36: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #37: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #38: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #39: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #40: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #41: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #42: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #43: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #44: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #45: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #46: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #47: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #48: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #49: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #50: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #51: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #52: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #53: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #54: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #55: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #56: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #57: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #58: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #59: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #60: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #61: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #62: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #63: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #64: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #65: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #66: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #67: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #68: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #69: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #70: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #71: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #72: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #73: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #74: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #75: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #76: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #77: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #78: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #79: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #80: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #81: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #82: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #83: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #84: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #85: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #86: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #87: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #88: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #89: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #90: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #91: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #92: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #93: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #94: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #95: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #96: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #97: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #98: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #99: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #100: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #101: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #102: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #103: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #104: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #105: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #106: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #107: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #108: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #109: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #110: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #111: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #112: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #113: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #114: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #115: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #116: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+
+entity_drops.cfg 'removing' #117: The following block or item doesn't seem to exist: 'lootplusplus:QuestCoin'.
+

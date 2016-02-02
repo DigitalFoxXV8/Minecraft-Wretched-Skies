@@ -1,0 +1,59 @@
+{
+	"certusQuartz": {
+		"enabled": "true",
+        "retrogen": "false",
+        "template": "uniform",
+        "block": "appliedenergistics2:tile.OreQuartz",
+        "clusterSize": 4,
+        "numClusters": 8,
+        "minHeight": 40,
+        "maxHeight": 85,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"certusQuartzCharged": {
+		"enabled": "true",
+        "retrogen": "false",
+        "template": "uniform",
+        "block": "appliedenergistics2:tile.OreQuartzCharged",
+        "clusterSize": 4,
+        "numClusters": 2,
+        "minHeight": 40,
+        "maxHeight": 85,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+	"skyStone": {
+		"enabled": "false",
+        "retrogen": "false",
+        "template": "uniform",
+        "block": "appliedenergistics2:tile.BlockSkyStone",
+        "clusterSize": 4,
+        "numClusters": 2,
+        "minHeight": 40,
+        "maxHeight": 85,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

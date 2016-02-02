@@ -1,0 +1,330 @@
+{
+	"aluminum": {
+		"enabled": "true",
+		"retrogen": "false",
+        "template": "uniform",
+        "block": {"name": "TConstruct:SearedBrick", "metadata": 5},
+        "clusterSize": 8,
+        "numClusters": 7,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"ironBerries": {
+		"enabled": "false",
+		"retrogen": "false",
+        "template": "uniform",
+        "block": {"name": "TConstruct:ore.berries.one", "metadata": 8},
+        "clusterSize": 8,
+        "numClusters": 7,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"goldBerries": {
+		"enabled": "false",
+		"retrogen": "false",
+        "template": "uniform",
+        "block": {"name": "TConstruct:ore.berries.one", "metadata": 9},
+        "clusterSize": 8,
+        "numClusters": 7,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"copperBerries": {
+		"enabled": "false",
+		"retrogen": "false",
+        "template": "uniform",
+        "block": {"name": "TConstruct:ore.berries.one", "metadata": 10},
+        "clusterSize": 8,
+        "numClusters": 7,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"tinBerries": {
+		"enabled": "false",
+		"retrogen": "false",
+        "template": "uniform",
+        "block": {"name": "TConstruct:ore.berries.one", "metadata": 11},
+        "clusterSize": 8,
+        "numClusters": 7,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"aluminumBerries": {
+		"enabled": "false",
+		"retrogen": "false",
+        "template": "uniform",
+        "block": {"name": "TConstruct:ore.berries.two", "metadata": 8},
+        "clusterSize": 8,
+        "numClusters": 7,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"essenceBerries": {
+		"enabled": "false",
+		"retrogen": "false",
+        "template": "uniform",
+        "block": {"name": "TConstruct:ore.berries.two", "metadata": 9},
+        "clusterSize": 8,
+        "numClusters": 7,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"cobalt": {
+		"enabled": "true",
+		"retrogen": "false",
+        "template": "uniform",
+        "block": {"name": "TConstruct:SearedBrick", "metadata": 1},
+        "clusterSize": 8,
+        "numClusters": 7,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            1
+        ]
+    },
+	"ardite": {
+		"enabled": "true",
+		"retrogen": "false",
+        "template": "uniform",
+        "block": {"name": "TConstruct:SearedBrick", "metadata": 2},
+        "clusterSize": 8,
+        "numClusters": 7,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            1
+        ]
+    },
+	"tinGravel": {
+		"enabled": "false",
+		"retrogen": "false",
+        "template": "uniform",
+        "block": {"name": "TConstruct:GravelOre", "metadata": 3},
+        "clusterSize": 8,
+        "numClusters": 7,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+             -1,
+            1
+        ]
+    },
+	"aluminumGravel": {
+		"enabled": "false",
+		"retrogen": "false",
+        "template": "uniform",
+        "block": {"name": "TConstruct:GravelOre", "metadata": 4},
+        "clusterSize": 8,
+        "numClusters": 7,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+             -1,
+            1
+        ]
+    },
+	"cobaltGravel": {
+		"enabled": "false",
+		"retrogen": "false",
+        "template": "uniform",
+        "block": {"name": "TConstruct:GravelOre", "metadata": 5},
+        "clusterSize": 8,
+        "numClusters": 7,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+             -1,
+            1
+        ]
+    },
+	"ironGravel": {
+		"enabled": "false",
+		"retrogen": "false",
+        "template": "uniform",
+        "block": "TConstruct:GravelOre",
+        "clusterSize": 8,
+        "numClusters": 7,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+             -1,
+            1
+        ]
+    },
+	"goldGravel": {
+		"enabled": "false",
+		"retrogen": "false",
+        "template": "uniform",
+        "block": {"name": "TConstruct:GravelOre", "metadata": 1},
+        "clusterSize": 8,
+        "numClusters": 7,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+             -1,
+            1
+        ]
+    },
+	"copperGravel": {
+		"enabled": "false",
+		"retrogen": "false",
+        "template": "uniform",
+        "block": {"name": "TConstruct:GravelOre", "metadata": 2},
+        "clusterSize": 8,
+        "numClusters": 7,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+             -1,
+            1
+        ]
+    }
+}

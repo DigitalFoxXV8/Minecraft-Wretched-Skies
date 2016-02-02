@@ -1,0 +1,580 @@
+## Entity IDs ##
+AWWayofTime.AirElemental
+AWWayofTime.BileDemon
+AWWayofTime.BoulderFist
+AWWayofTime.EarthElemental
+AWWayofTime.FallenAngel
+AWWayofTime.FireElemental
+AWWayofTime.HolyElemental
+AWWayofTime.IceDemon
+AWWayofTime.LowerGuardian
+AWWayofTime.MinorDemonGrunt
+AWWayofTime.MinorDemonGruntEarth
+AWWayofTime.MinorDemonGruntFire
+AWWayofTime.MinorDemonGruntGuardian
+AWWayofTime.MinorDemonGruntGuardianEarth
+AWWayofTime.MinorDemonGruntGuardianFire
+AWWayofTime.MinorDemonGruntGuardianIce
+AWWayofTime.MinorDemonGruntGuardianWind
+AWWayofTime.MinorDemonGruntIce
+AWWayofTime.MinorDemonGruntWind
+AWWayofTime.Shade
+AWWayofTime.ShadeElemental
+AWWayofTime.SmallEarthGolem
+AWWayofTime.WaterElemental
+AWWayofTime.WingedFireDemon
+AWWayofTime.bloodLightProjectile
+AWWayofTime.bookEntityItem
+AWWayofTime.catalogueEntityItem
+AWWayofTime.energyBazookaMain
+AWWayofTime.energyBazookaSecondary
+AWWayofTime.energyBlastProjectile
+AWWayofTime.explosionProjectile
+AWWayofTime.fireProjectile
+AWWayofTime.holyProjectile
+AWWayofTime.iceProjectile
+AWWayofTime.lightningBoltProjectile
+AWWayofTime.meteor
+AWWayofTime.mudProjectile
+AWWayofTime.particleBeam
+AWWayofTime.spellProjectile
+AWWayofTime.teleportProjectile
+AWWayofTime.waterProjectile
+AWWayofTime.windGustProjectile
+AgriCraft.leash
+AgriCraft.villagerFarmer
+ArchimedesShipsPlus.attachment.seat
+ArchimedesShipsPlus.parachute
+ArchimedesShipsPlus.shipmod
+Arrow
+Artifacts.SpecialArrow
+Basalz
+Bat
+BiblioCraft.SeatEntity
+Blaze
+Blitz
+Blizz
+Boat
+Botania.botania:babylonWeapon
+Botania.botania:corporeaSpark
+Botania.botania:doppleganger
+Botania.botania:enderAirBottle
+Botania.botania:fallingStar
+Botania.botania:flameRing
+Botania.botania:magicLandmine
+Botania.botania:magicMissile
+Botania.botania:manaBurst
+Botania.botania:manaStorm
+Botania.botania:pinkWither
+Botania.botania:pixie
+Botania.botania:playerMover
+Botania.botania:poolMinecart
+Botania.botania:signalFlare
+Botania.botania:spark
+Botania.botania:thornChakram
+Botania.botania:thrownItem
+Botania.botania:vineBall
+CaveSpider
+Chicken
+ClayGolem
+Cow
+Creeper
+EnderCrystal
+EnderDragon
+Enderman
+EntityHorse
+EnviroPhysicsBlock
+EyeOfEnderSignal
+FallingSand
+Fireball
+FireworksRocketEntity
+Ghast
+Giant
+HardcoreEnderExpansion.AngryEnderman
+HardcoreEnderExpansion.BabyEnderman
+HardcoreEnderExpansion.BlockHomelandCache
+HardcoreEnderExpansion.Dragon
+HardcoreEnderExpansion.EnderDemon
+HardcoreEnderExpansion.EnderEye
+HardcoreEnderExpansion.EnderGuardian
+HardcoreEnderExpansion.Endermage
+HardcoreEnderExpansion.EnhancedTNT
+HardcoreEnderExpansion.FallingDragonEgg
+HardcoreEnderExpansion.FallingObsidian
+HardcoreEnderExpansion.FireFiend
+HardcoreEnderExpansion.FireGolem
+HardcoreEnderExpansion.ForestGhost
+HardcoreEnderExpansion.HauntedMiner
+HardcoreEnderExpansion.HomelandEnderman
+HardcoreEnderExpansion.InfestedBat
+HardcoreEnderExpansion.ItemAltar
+HardcoreEnderExpansion.ItemDragonEgg
+HardcoreEnderExpansion.ItemEndPowder
+HardcoreEnderExpansion.ItemIgneousRock
+HardcoreEnderExpansion.ItemInstabilityOrb
+HardcoreEnderExpansion.LightningBoltDemon
+HardcoreEnderExpansion.LightningBoltSafe
+HardcoreEnderExpansion.Louse
+HardcoreEnderExpansion.ParalyzedEnderman
+HardcoreEnderExpansion.ProjectileCorruptedEnergy
+HardcoreEnderExpansion.ProjectileCurse
+HardcoreEnderExpansion.ProjectileDragonFireball
+HardcoreEnderExpansion.ProjectileEnhancedEnderPearl
+HardcoreEnderExpansion.ProjectileExpBottleConsistent
+HardcoreEnderExpansion.ProjectileFiendFireball
+HardcoreEnderExpansion.ProjectileFlamingBall
+HardcoreEnderExpansion.ProjectileGolemFireball
+HardcoreEnderExpansion.ProjectileMinerShot
+HardcoreEnderExpansion.ProjectilePotionOfInstability
+HardcoreEnderExpansion.ProjectileSacredWand
+HardcoreEnderExpansion.ProjectileSpatialDash
+HardcoreEnderExpansion.ScorchedLens
+HardcoreEnderExpansion.TechnicalBiomeInteraction
+HardcoreEnderExpansion.TechnicalCurseBlock
+HardcoreEnderExpansion.TechnicalCurseEntity
+HardcoreEnderExpansion.TechnicalPuzzleChain
+HardcoreEnderExpansion.TechnicalPuzzleSolved
+HardcoreEnderExpansion.TechnicalVoidChest
+HardcoreEnderExpansion.TempleEgg
+HardcoreEnderExpansion.VampireBat
+ImmersiveEngineering.chemthrowerShot
+ImmersiveEngineering.railgunShot
+ImmersiveEngineering.revolverShot
+ImmersiveEngineering.revolverShotHoming
+ImmersiveEngineering.revolverShotWolfpack
+ImmersiveEngineering.skylineCrate
+ImmersiveEngineering.skylineHook
+Item
+ItemFrame
+LavaSlime
+LeashKnot
+MagicCookie.IceCube
+MagicCookie.MagicCookieGolem
+MinecartChest
+MinecartCommandBlock
+MinecartFurnace
+MinecartHopper
+MinecartRideable
+MinecartSpawner
+MinecartTNT
+Mob
+Monster
+MushroomCow
+OpenBlocks.Cartographer
+OpenBlocks.EntityItemProjectile
+OpenBlocks.GoldenEye
+OpenBlocks.Hang Glider
+OpenBlocks.Luggage
+OpenBlocks.Magnet
+OpenBlocks.MiniMe
+OpenBlocks.MountedBlock
+OpenBlocks.Player-Magnet
+OpenBlocks.XPOrbNoFly
+OpenMods.Block
+Ozelot
+Painting
+Pig
+PigZombie
+PrimedTnt
+Railcraft.ItemFireproof
+Railcraft.ItemFirestone
+Railcraft.cart.anchor
+Railcraft.cart.anchor.admin
+Railcraft.cart.anchor.personal
+Railcraft.cart.basic
+Railcraft.cart.bore
+Railcraft.cart.cargo
+Railcraft.cart.chest
+Railcraft.cart.command.block
+Railcraft.cart.furnace
+Railcraft.cart.gift
+Railcraft.cart.loco.electric
+Railcraft.cart.loco.steam.solid
+Railcraft.cart.pumpkin
+Railcraft.cart.tank
+Railcraft.cart.tnt
+Railcraft.cart.tnt.wood
+Railcraft.cart.track.layer
+Railcraft.cart.track.relayer
+Railcraft.cart.track.remover
+Railcraft.cart.undercutter
+Railcraft.cart.work
+Railcraft.railcraft.cart.anchor
+Railcraft.railcraft.cart.anchor.admin
+Railcraft.railcraft.cart.anchor.personal
+Railcraft.railcraft.cart.basic
+Railcraft.railcraft.cart.bore
+Railcraft.railcraft.cart.cargo
+Railcraft.railcraft.cart.chest
+Railcraft.railcraft.cart.command.block
+Railcraft.railcraft.cart.furnace
+Railcraft.railcraft.cart.gift
+Railcraft.railcraft.cart.hopper
+Railcraft.railcraft.cart.loco.electric
+Railcraft.railcraft.cart.loco.steam
+Railcraft.railcraft.cart.loco.steam.solid
+Railcraft.railcraft.cart.pumpkin
+Railcraft.railcraft.cart.tank
+Railcraft.railcraft.cart.tnt
+Railcraft.railcraft.cart.tnt.wood
+Railcraft.railcraft.cart.track.layer
+Railcraft.railcraft.cart.track.relayer
+Railcraft.railcraft.cart.track.remover
+Railcraft.railcraft.cart.undercutter
+Railcraft.railcraft.cart.work
+RopesPlus.ConfusingArrow
+RopesPlus.DirtArrow
+RopesPlus.ExplodingArrow
+RopesPlus.FireArrow
+RopesPlus.FreeFormRope
+RopesPlus.FrostArrow
+RopesPlus.GrapplingHook
+RopesPlus.PenetratingArrow
+RopesPlus.RedstonetorchArrow
+RopesPlus.RopeArrow
+RopesPlus.SeedArrow
+RopesPlus.SlimeArrow
+RopesPlus.TorchArrow
+RopesPlus.WarpArrow
+Sanguimancy.EntityChickenMinion
+Sanguimancy.EntityPlayerPointer
+Sheep
+Silverfish
+Skeleton
+Slime
+SmallFireball
+SnowMan
+Snowball
+SpecialMobs.ArmorCreeper
+SpecialMobs.BabyCaveSpider
+SpecialMobs.BabyGhast
+SpecialMobs.BabySpider
+SpecialMobs.BlackberrySlime
+SpecialMobs.BlindingEnderman
+SpecialMobs.BlindingSilverfish
+SpecialMobs.BlueberrySlime
+SpecialMobs.BrutishPigZombie
+SpecialMobs.BrutishSkeleton
+SpecialMobs.BrutishZombie
+SpecialMobs.CaramelSlime
+SpecialMobs.CinderBlaze
+SpecialMobs.ConflagrationBlaze
+SpecialMobs.CursedEnderman
+SpecialMobs.DarkCreeper
+SpecialMobs.DeathCreeper
+SpecialMobs.DesertSpider
+SpecialMobs.DirtCreeper
+SpecialMobs.DoomCreeper
+SpecialMobs.DrowningCreeper
+SpecialMobs.EmberBlaze
+SpecialMobs.EnderCreeper
+SpecialMobs.FaintGhast
+SpecialMobs.FighterGhast
+SpecialMobs.FireCreeper
+SpecialMobs.FireSkeleton
+SpecialMobs.FireZombie
+SpecialMobs.FishingPigZombie
+SpecialMobs.FishingSilverfish
+SpecialMobs.FishingZombie
+SpecialMobs.FlyingCaveSpider
+SpecialMobs.FlyingSilverfish
+SpecialMobs.FlyingSpider
+SpecialMobs.GatlingSkeleton
+SpecialMobs.GhostSpider
+SpecialMobs.GiantPigZombie
+SpecialMobs.GiantSkeleton
+SpecialMobs.GiantSpider
+SpecialMobs.GiantZombie
+SpecialMobs.GrapeSlime
+SpecialMobs.GravelCreeper
+SpecialMobs.GravityCreeper
+SpecialMobs.HellfireBlaze
+SpecialMobs.HungryPigZombie
+SpecialMobs.HungrySpider
+SpecialMobs.HungryZombie
+SpecialMobs.IcyEnderman
+SpecialMobs.InfernoBlaze
+SpecialMobs.JoltBlaze
+SpecialMobs.JumpingCreeper
+SpecialMobs.KingGhast
+SpecialMobs.LemonSlime
+SpecialMobs.LightningCreeper
+SpecialMobs.LightningEnderman
+SpecialMobs.MiniCreeper
+SpecialMobs.MiniEnderman
+SpecialMobs.MiniGhast
+SpecialMobs.MirageEnderman
+SpecialMobs.MotherCaveSpider
+SpecialMobs.MotherSpider
+SpecialMobs.NinjaSkeleton
+SpecialMobs.PaleSpider
+SpecialMobs.PlaguePigZombie
+SpecialMobs.PlagueZombie
+SpecialMobs.PoisonSilverfish
+SpecialMobs.PoisonSkeleton
+SpecialMobs.PoisonSpider
+SpecialMobs.QueenGhast
+SpecialMobs.SMFishHook
+SpecialMobs.SMSpitball
+SpecialMobs.SmallSpider
+SpecialMobs.SmolderBlaze
+SpecialMobs.SniperSkeleton
+SpecialMobs.SpecialBlaze
+SpecialMobs.SpecialCaveSpider
+SpecialMobs.SpecialCreeper
+SpecialMobs.SpecialEnderman
+SpecialMobs.SpecialGhast
+SpecialMobs.SpecialPigZombie
+SpecialMobs.SpecialSilverfish
+SpecialMobs.SpecialSkeleton
+SpecialMobs.SpecialSlime
+SpecialMobs.SpecialSpider
+SpecialMobs.SpecialZombie
+SpecialMobs.SpitfireSkeleton
+SpecialMobs.SplittingCreeper
+SpecialMobs.StrawberrySlime
+SpecialMobs.ThiefEnderman
+SpecialMobs.ThiefSkeleton
+SpecialMobs.ToughCaveSpider
+SpecialMobs.ToughSilverfish
+SpecialMobs.ToughSpider
+SpecialMobs.UnholyGhast
+SpecialMobs.VampirePigZombie
+SpecialMobs.WatermelonSlime
+SpecialMobs.WebCaveSpider
+SpecialMobs.WebSpider
+SpecialMobs.WildfireBlaze
+SpecialMobs.WitchCaveSpider
+SpecialMobs.WitchSpider
+Spider
+Squid
+StevesCarts.Cake.Vswe
+StevesCarts.Egg.Vswe
+StevesCarts.Minecart.Vswe.0
+TConstruct.Arrow
+TConstruct.Bolt
+TConstruct.Crystal
+TConstruct.Dagger
+TConstruct.EdibleSlime
+TConstruct.Fancy Item
+TConstruct.Javelin
+TConstruct.KingSlime
+TConstruct.LandmineFirework
+TConstruct.Launched Potion
+TConstruct.Shuriken
+TConstruct.SlimeExplosive
+TConstruct.ThrowingKnife
+TaintedMagic.EldritchOrbAttack
+TaintedMagic.TaintBubble
+Thaumcraft.Alumentum
+Thaumcraft.AspectOrb
+Thaumcraft.BottleTaint
+Thaumcraft.BrainyZombie
+Thaumcraft.CultistCleric
+Thaumcraft.CultistKnight
+Thaumcraft.CultistLeader
+Thaumcraft.CultistPortal
+Thaumcraft.Dart
+Thaumcraft.EldritchCrab
+Thaumcraft.EldritchGolem
+Thaumcraft.EldritchGuardian
+Thaumcraft.EldritchOrb
+Thaumcraft.EldritchWarden
+Thaumcraft.Ember
+Thaumcraft.ExplosiveOrb
+Thaumcraft.FallingTaint
+Thaumcraft.Firebat
+Thaumcraft.FollowItem
+Thaumcraft.FrostShard
+Thaumcraft.GiantBrainyZombie
+Thaumcraft.Golem
+Thaumcraft.GolemBobber
+Thaumcraft.GolemOrb
+Thaumcraft.InhabitedZombie
+Thaumcraft.MindSpider
+Thaumcraft.Pech
+Thaumcraft.PechBlast
+Thaumcraft.PermanentItem
+Thaumcraft.PrimalArrow
+Thaumcraft.PrimalOrb
+Thaumcraft.ShockOrb
+Thaumcraft.SpecialItem
+Thaumcraft.SpecialItemGrate
+Thaumcraft.TaintSpider
+Thaumcraft.TaintSpore
+Thaumcraft.TaintSwarm
+Thaumcraft.TaintSwarmer
+Thaumcraft.Taintacle
+Thaumcraft.TaintacleGiant
+Thaumcraft.TaintacleTiny
+Thaumcraft.TaintedChicken
+Thaumcraft.TaintedCow
+Thaumcraft.TaintedCreeper
+Thaumcraft.TaintedPig
+Thaumcraft.TaintedSheep
+Thaumcraft.TaintedVillager
+Thaumcraft.ThaumSlime
+Thaumcraft.TravelingTrunk
+Thaumcraft.Wisp
+ThaumicTinkerer.ShadowbeamStaffBeam
+ThermalExpansion.florb
+ThermalFoundation.basalzBolt
+ThermalFoundation.blitzBolt
+ThermalFoundation.blizzBolt
+ThrownEnderpearl
+ThrownExpBottle
+ThrownPotion
+Villager
+VillagerGolem
+Witch
+WitchingGadgets.reformingItem
+WitherBoss
+WitherSkull
+Wolf
+XPOrb
+Zombie
+appliedenergistics2.EntityChargedQuartz
+appliedenergistics2.EntityGrowingCrystal
+appliedenergistics2.EntitySingularity
+appliedenergistics2.EntityTinyTNTPrimed
+betterstorage.Cluckington
+betterstorage.Frienderman
+chisel.BallOMoss
+chisel.CloudInABottle
+chisel.SmashingRock
+chisel.snowman
+etfuturum.end_crystal
+etfuturum.ender_dragon
+etfuturum.endermite
+etfuturum.lingering_effect
+etfuturum.lingering_potion
+etfuturum.rabbit
+etfuturum.snow_golem
+etfuturum.tipped_arrow
+etfuturum.villager_zombie
+etfuturum.wooden_armorstand
+exnihilo.Broken Stone
+imc.MiningTNTPrimed
+imc.WildChicken
+imc.WildCow
+imc.WildPig
+imc.WildSheep
+lootplusplus.Label
+lootplusplus.ThrownItem
+witchery.attackbat
+witchery.babayaga
+witchery.banshee
+witchery.bolt
+witchery.brew
+witchery.brew2
+witchery.broom
+witchery.cat
+witchery.corpse
+witchery.covenwitch
+witchery.darkmark
+witchery.death
+witchery.deathhorse
+witchery.demon
+witchery.droplet
+witchery.ent
+witchery.eye
+witchery.familiar
+witchery.follower
+witchery.goblin
+witchery.goblingulg
+witchery.goblinmog
+witchery.grenade
+witchery.hellhound
+witchery.hornedHuntsman
+witchery.illusionCreeper
+witchery.illusionSpider
+witchery.illusionZombie
+witchery.imp
+witchery.item
+witchery.leonard
+witchery.lilith
+witchery.lordoftorment
+witchery.lostsoul
+witchery.louse
+witchery.mandrake
+witchery.mindrake
+witchery.mirrorface
+witchery.nightmare
+witchery.owl
+witchery.poltergeist
+witchery.reflection
+witchery.soulfire
+witchery.spectre
+witchery.spellEffect
+witchery.spirit
+witchery.splatter
+witchery.toad
+witchery.treefyd
+witchery.vampire
+witchery.villageguard
+witchery.werevillager
+witchery.wingedmonkey
+witchery.witchhunter
+witchery.wolfman
+## Spawn Egg IDs: in the form <number id> - <entity string id (which it spawns)> ##
+3 - ClayGolem
+5 - Blizz
+6 - Blitz
+7 - Basalz
+50 - Creeper
+51 - Skeleton
+52 - Spider
+54 - Zombie
+55 - Slime
+56 - Ghast
+57 - PigZombie
+58 - Enderman
+59 - CaveSpider
+60 - Silverfish
+61 - Blaze
+62 - LavaSlime
+65 - Bat
+66 - Witch
+90 - Pig
+91 - Sheep
+92 - Cow
+93 - Chicken
+94 - Squid
+95 - Wolf
+96 - MushroomCow
+98 - Ozelot
+100 - EntityHorse
+120 - Villager
+301 - Sanguimancy.EntityChickenMinion
+6396 - witchery.demon
+6397 - witchery.mandrake
+6398 - witchery.treefyd
+6399 - witchery.hornedHuntsman
+6400 - witchery.ent
+6401 - witchery.owl
+6402 - witchery.toad
+6403 - witchery.babayaga
+6404 - witchery.covenwitch
+6405 - witchery.nightmare
+6406 - witchery.spectre
+6407 - witchery.poltergeist
+6408 - witchery.banshee
+6409 - witchery.spirit
+6410 - witchery.death
+6411 - witchery.witchhunter
+6412 - witchery.lordoftorment
+6413 - witchery.imp
+6414 - witchery.mindrake
+6415 - witchery.goblin
+6416 - witchery.goblinmog
+6417 - witchery.goblingulg
+6418 - witchery.leonard
+6419 - witchery.lostsoul
+6420 - witchery.wolfman
+6421 - witchery.hellhound
+6422 - witchery.werevillager
+6423 - witchery.villageguard
+6424 - witchery.vampire
+6425 - witchery.lilith
+6426 - witchery.wingedmonkey
+6427 - witchery.reflection

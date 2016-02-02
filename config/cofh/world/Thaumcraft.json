@@ -1,0 +1,178 @@
+{
+	"cinnabar": {
+		"enabled": "true",
+		"retrogen": "false",
+        "template": "uniform",
+        "block": "Thaumcraft:blockCustomOre",
+        "clusterSize": 1,
+        "numClusters": 8,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"airShards": {
+		"enabled": "true",
+		"retrogen": "false",
+        "template": "cave",
+		"generator": "cluster",
+        "block": "Thaumcraft:blockCrystal",
+		"clusterSize": 1,
+        "numClusters": 10,
+		
+		"ceiling": "false",
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+	},
+	"fireShards": {
+		"enabled": "true",
+        "retrogen": "false",
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 2},
+        "clusterSize": 4,
+        "numClusters": 8,
+		
+        "minHeight": 0,
+        "maxHeight": 30,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            "WARM"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"waterShards": {
+		"enabled": "true",
+        "retrogen": "false",
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 3},
+        "clusterSize": 4,
+        "numClusters": 8,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            "COLD"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"earthShards": {
+		"enabled": "true",
+        "retrogen": "false",
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 4},
+        "clusterSize": 4,
+        "numClusters": 8,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"orderShards": {
+		"enabled": "true",
+        "retrogen": "false",
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 5},
+        "clusterSize": 4,
+        "numClusters": 8,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"entropyShards": {
+		"enabled": "true",
+        "retrogen": "false",
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 6},
+        "clusterSize": 4,
+        "numClusters": 8,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"amberStone": {
+		"enabled": "true",
+        "retrogen": "false",
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 7},
+        "clusterSize": 1,
+        "numClusters": 8,
+		
+        "minHeight": 40,
+        "maxHeight": 85,
+		
+		"chunkChance": 1,
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
