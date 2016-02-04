@@ -1,0 +1,30 @@
+//SteveCart's
+
+recipes.remove(<StevesCarts:CartModule:95>);
+recipes.addShaped(<StevesCarts:CartModule:95>,
+ [[ null , <ore:dustRedstone> , null ],
+  [ <minecraft:glowstone_dust> , <minecraft:emerald> , <minecraft:glowstone_dust> ],
+  [ <StevesCarts:ModuleComponents:9> , <minecraft:cauldron> , <StevesCarts:ModuleComponents:9> ]]);
+
+  
+//Chisel2
+
+recipes.remove(<chisel:technical3>);
+recipes.addShaped(<chisel:technical3>*9,
+ [[ <chisel:technical:4>  , <chisel:technical:4> , <chisel:technical:4> ],
+  [ <chisel:technical:4> , <chisel:technical:4> , <chisel:technical:4> ],
+  [ <chisel:technical:4> , <chisel:technical:4> , <chisel:technical:4> ]]);
+
+  
+//Railcraft
+
+recipes.addShaped (<Railcraft:part.tie> * 1,
+	[	[null,<ImmersiveEngineering:fluidContainers:1>,null],
+		[<ore:slabWood>,<ore:slabWood>,<ore:slabWood>]
+	]);
+
+recipes.addShaped (<Railcraft:part.tie> * 1,
+	[	[null,<ImmersiveEngineering:fluidContainers>,null],
+		[<ore:slabWood>,<ore:slabWood>,<ore:slabWood>]
+	]);	
+
