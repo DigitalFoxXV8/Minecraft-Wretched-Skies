@@ -358,3 +358,8 @@ recipes.addShaped(AqueousAccumulator,[[<ore:runeWaterB>, <minecraft:bucket>, <or
 recipes.addShaped(AqueousAccumulator,[[<MagicCookie:ItemGolemUpgrade:3>, <minecraft:bucket>, <MagicCookie:ItemGolemUpgrade:3>],
 						              [<ore:blockglass>, <ThermalExpansion:Frame>, <ore:blockglass>],
 							          [<ore:gearElectrum>, <ThermalExpansion:material>, <ore:gearElectrum>]]);
+									  
+									  
+									  
+									  
+recipes.remove <PneumaticCraft:advancedPressureTube> ;                    ///bug-crash

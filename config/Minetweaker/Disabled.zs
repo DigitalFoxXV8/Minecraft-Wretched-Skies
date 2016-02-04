@@ -61,3 +61,9 @@ NEI.hide (<JABBA:upgradeCore:1>);
 
 recipes.remove (<JABBA:tuningFork>);
 NEI.hide (<JABBA:tuningFork>);
+
+
+/// Pneumaticcraft
+
+recipes.remove (<PneumaticCraft:advancedPressureTube>) ;                    ///bug-crash
+NEI.hide (<PneumaticCraft:advancedPressureTube>) ; 
