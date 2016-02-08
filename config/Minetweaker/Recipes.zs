@@ -344,6 +344,7 @@ recipes.addShaped (<Railcraft:machine.alpha:14>*6,
 	]);
 	
 
+///forcegithubupdate	
 ///Thermalexpansion	
 recipes.remove (<ThermalExpansion:Frame>);
 recipes.addShaped  (<ThermalExpansion:Frame>,[ [<oreDict:ingotInvar>, <oreDict:ingotElectrum>, <oreDict:ingotInvar>],
@@ -426,5 +427,87 @@ mods.exnihilo.sieve.addRecipe(Dirt, <5311>, 22);
 mods.exnihilo.sieve.addRecipe(Dirt, <5319>, 60);
 mods.exnihilo.sieve.addRecipe(Dirt, <5325>, 16);
 
+mods.exnihilo.sieve.addRecipe(Dirt, <minecraft:bone>, 10);recipes.remove (<ThermalExpansion:Frame>);
+recipes.addShaped  (<ThermalExpansion:Frame>,[ [<oreDict:ingotInvar>, <oreDict:ingotElectrum>, <oreDict:ingotInvar>],
+						         [<oreDict:glass>, <PneumaticCraft:printedCircuitBoard>, <oreDict:glass>],
+							     [<oreDict:ingotInvar>, <oreDict:ingotElectrum>, <oreDict:ingotInvar>]]);
+	
+	
+recipes.remove(AqueousAccumulator);
+recipes.addShaped(AqueousAccumulator,[[<ore:runeWaterB>, <minecraft:bucket>, <ore:runeWaterB>],
+						              [<ore:blockglass>, <ThermalExpansion:Frame>, <ore:blockglass>],
+							          [<ore:gearElectrum>, <ThermalExpansion:material>, <ore:gearElectrum>]]);
+recipes.addShaped(AqueousAccumulator,[[<MagicCookie:ItemGolemUpgrade:3>, <minecraft:bucket>, <MagicCookie:ItemGolemUpgrade:3>],
+						              [<ore:blockglass>, <ThermalExpansion:Frame>, <ore:blockglass>],
+							          [<ore:gearElectrum>, <ThermalExpansion:material>, <ore:gearElectrum>]]);
+									  
+
+///Minecraft
+
+recipes.remove(<minecraft:cauldron>);
+NEI.hide(<minecraft:cauldron>);
+
+recipes.remove(<witchery:kettle>);
+recipes.addShaped(<witchery:kettle>), [[<280>, <287>, <280>],
+						              [<287>, <6244:10>, <287>],
+							          [null, <1348>, null]]);
+									  
+recipes.remove(<StevesCarts:CartModule:95>);
+recipes.addShaped(<StevesCarts:CartModule:95>), [[null, <331>, null],
+						              [<348>, <388>, <348>],
+							          [<6084:9>, <1348>, <6084:9>]]);
+
+recipes.remove(<Railcraft:machine.alpha:5>);
+recipes.addShaped(<Railcraft:machine.alpha:5>), [[null, <87>, null],
+						              [<331>, <1348>, <331>],
+							          [null, null, null]]);
+							
+recipes.remove(<chisel:upgrade:3>);
+recipes.addShaped(<chisel:upgrade:3>), [[<ore:ingotIron>, <388>, <ore:ingotIron>],
+						              [<388>, <1348>, <388>],
+							          [<331>, <331>, <331>]]);
+									  
+recipes.addShapeless(<Thaumcraft:blockMetalDevice>, [<ore:materialAspectShard>,<1348> ,<ore:materialAspectShard> ]
+
+
+///Ex nehilo
+
+
+mods.exnihilo.sieve.addRecipe(Dirt, <1628>, 50);   ///Tree Saplings
+mods.exnihilo.sieve.addRecipe(Dirt, <1616>, 30);
+mods.exnihilo.sieve.addRecipe(Dirt, <1642>, 60);
+mods.exnihilo.sieve.addRecipe(Dirt, <1644>, 58);
+mods.exnihilo.sieve.addRecipe(Dirt, <1646>, 54);
+mods.exnihilo.sieve.addRecipe(Dirt, <1648>, 54);
+mods.exnihilo.sieve.addRecipe(Dirt, <1650>, 77);
+mods.exnihilo.sieve.addRecipe(Dirt, <1652>, 50);
+mods.exnihilo.sieve.addRecipe(Dirt, <1656>, 62);
+mods.exnihilo.sieve.addRecipe(Dirt, <1658>, 60);
+mods.exnihilo.sieve.addRecipe(Dirt, <1664>, 70);
+mods.exnihilo.sieve.addRecipe(Dirt, <1666>, 40);
+mods.exnihilo.sieve.addRecipe(Dirt, <1676>, 50);
+
+
+mods.exnihilo.sieve.addRecipe(Dirt, <5275>, 22);  ///Saplings
+mods.exnihilo.sieve.addRecipe(Dirt, <5276>, 22);
+mods.exnihilo.sieve.addRecipe(Dirt, <5277>, 26);
+mods.exnihilo.sieve.addRecipe(Dirt, <5278>, 21);
+mods.exnihilo.sieve.addRecipe(Dirt, <5279>, 10);
+mods.exnihilo.sieve.addRecipe(Dirt, <5280>, 25);
+mods.exnihilo.sieve.addRecipe(Dirt, <5281>, 40);
+mods.exnihilo.sieve.addRecipe(Dirt, <5289>, 30);
+mods.exnihilo.sieve.addRecipe(Dirt, <5290>, 42);
+mods.exnihilo.sieve.addRecipe(Dirt, <5291>, 30);
+mods.exnihilo.sieve.addRecipe(Dirt, <5292>, 32);
+mods.exnihilo.sieve.addRecipe(Dirt, <5293>, 12);
+mods.exnihilo.sieve.addRecipe(Dirt, <5296>, 18);
+mods.exnihilo.sieve.addRecipe(Dirt, <5302>, 32);
+mods.exnihilo.sieve.addRecipe(Dirt, <5304>, 45);
+mods.exnihilo.sieve.addRecipe(Dirt, <5305>, 50);
+mods.exnihilo.sieve.addRecipe(Dirt, <5311>, 22);
+mods.exnihilo.sieve.addRecipe(Dirt, <5319>, 60);
+mods.exnihilo.sieve.addRecipe(Dirt, <5325>, 16);
+
 mods.exnihilo.sieve.addRecipe(Dirt, <minecraft:bone>, 10);
+
 
