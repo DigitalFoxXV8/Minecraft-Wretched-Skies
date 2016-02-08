@@ -11,18 +11,8 @@ import mods.nei.NEI;
 recipes.remove(<exnihilo:1350>);
 NEI.hide(<exnihilo:1350>);
 
-mods.exnihilo.sieve.removeRecipe(<6461>);
-mods.exnihilo.sieve.removeRecipe(<6494>);
-mods.exnihilo.sieve.removeRecipe(<6465>);
-mods.exnihilo.sieve.removeRecipe(<6469>);
-mods.exnihilo.sieve.removeRecipe(<264>);
-mods.exnihilo.sieve.removeRecipe(<351:4>);
-mods.exnihilo.sieve.removeRecipe(<6489>);
-mods.exnihilo.sieve.removeRecipe(<6484>);
-mods.exnihilo.sieve.removeRecipe(<6474>);
-mods.exnihilo.sieve.removeRecipe(<6499>);
-mods.exnihilo.sieve.removeRecipe(<6479>);
-mods.exnihilo.sieve.removeRecipe(<388>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:gravel>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:dust>);
 
 mods.exnihilo.sieve.addRecipe(Gravel, <4967> , 4);
 mods.exnihilo.sieve.addRecipe(Gravel, <5195>, 5);
