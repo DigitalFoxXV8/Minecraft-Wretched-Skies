@@ -27,8 +27,6 @@ mods.exnihilo.sieve.removeRecipe(<388>);
 mods.exnihilo.sieve.addRecipe(Gravel, <4967> , 4);
 mods.exnihilo.sieve.addRecipe(Gravel, <5195>, 5);
 
-
-
 //Malisis' Doors
 
 recipes.remove(<malisisdoors:item.forcefieldItem>); //OP!!!
@@ -83,3 +81,5 @@ NEI.hide (<PneumaticCraft:advancedPressureTube>) ;
 
 recipes.remove(<harvestcraft:sink>);
 NEI.hide(<harvestcraft:sink>);
+
+
