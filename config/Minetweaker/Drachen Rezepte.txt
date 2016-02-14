@@ -1,0 +1,7 @@
+///Ex Nihilo
+mods.exnihilo.crucible.addRecipe(<ore:listAllveggie>, <liquid:water> * 50);
+mods.exnihilo.crucible.addRecipe(<ore:listAllfruit>, <liquid:water> * 50);
+mods.exnihilo.crucible.addRecipe(ore:listAllpepper, <liquid:water>* 10);
+
+///Thaumcraft
+recipes.addShapeless(<Thaumcraft:blockMetalDevice>, [<ore:materialAspectShard> * 2, <exnihilo:crucible>]);

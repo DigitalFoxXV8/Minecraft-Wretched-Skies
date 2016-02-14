@@ -8,15 +8,14 @@ import mods.nei.NEI;
 
 //Ex Nihilo
 
-recipes.remove(<exnihilo:hammer_wood>);
-NEI.hide(<exnihilo:hammer_wood>);
+recipes.remove(<exnihilo:1350>);
+NEI.hide(<exnihilo:1350>);
 
-recipes.remove(<exnihilo:hammer_stone>);
-NEI.hide(<exnihilo:hammer_stone>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:gravel>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:dust>);
 
-recipes.remove(<exnihilo:hammer_gold>);
-NEI.hide(<exnihilo:hammer_gold>);
-
+mods.exnihilo.sieve.addRecipe(Gravel, <4967> , 4);
+mods.exnihilo.sieve.addRecipe(Gravel, <5195>, 5);
 
 //Malisis' Doors
 
@@ -67,3 +66,10 @@ NEI.hide (<JABBA:tuningFork>);
 
 recipes.remove (<PneumaticCraft:advancedPressureTube>) ;                    ///bug-crash
 NEI.hide (<PneumaticCraft:advancedPressureTube>) ; 
+
+///Pams Harvestcraft
+
+recipes.remove(<harvestcraft:sink>);
+NEI.hide(<harvestcraft:sink>);
+
+
