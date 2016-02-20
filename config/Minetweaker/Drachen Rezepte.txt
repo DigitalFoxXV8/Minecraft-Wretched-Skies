@@ -1,7 +1,270 @@
+//////////////////////////
+///Ore Directory
+val stickystuff = <ore:stickystuff>;
+stickystuff.add(<witchery:ingredient:16>);
+stickystuff.add(<TConstruct:buckets:25>);
+stickystuff.add(<WitchingGadgets:item.WG_CrystalFlask>.withTag({fluid: "glue"}));
+stickystuff.addAll(<ore:slimeball>);
+
+<ore:toolMortarandpestle>.addAll<ore:pestleAndMortar>
+<ore:pestleAndMortar>.mirror<ore:toolMortarandpestle>
+
+val allGear = <ore:allGear>;
+allGear.addAll(<ore:gearWood>);
+allGear.addAll(<ore:gearIron>);
+allGear.addAll(<ore:gearGold>);
+allGear.addAll(<ore:gearSteel>);
+allGear.addAll(<ore:gearCopper>);
+allGear.addAll(<ore:gearTin>);
+allGear.addAll(<ore:gearSilver>);
+allGear.addAll(<ore:gearLead>);
+allGear.addAll(<ore:gearNickel>);
+allGear.addAll(<ore:gearPlatinum>);
+allGear.addAll(<ore:gearMithril>);
+allGear.addAll(<ore:gearInvar>);
+allGear.addAll(<ore:gearBronze>);
+allGear.addAll(<ore:gearSignalum>);
+allGear.addAll(<ore:gearLumium>);
+allGear.addAll(<ore:gearEnderium>);
+allGear.add(<PneumaticCraft:compressedIronGear>);
+
+
+val listAllsodas = <ore:listAllsodas>;
+listAllsodas.add(<harvestcraft:bubblywaterItem>);
+listAllsodas.add(<harvestcraft:cherrysodaItem>);
+listAllsodas.add(<harvestcraft:strawberrysodaItem>);
+listAllsodas.add(<harvestcraft:rootbeersodaItem>);
+listAllsodas.add(<harvestcraft:orangesodaItem>);
+listAllsodas.add(<harvestcraft:lemonlimesodaItem>);
+listAllsodas.add(<harvestcraft:grapesodaItem>);
+listAllsodas.add(<harvestcraft:gingersodaItem>);
+listAllsodas.add(<harvestcraft:colasodaItem>);
+listAllsodas.add(<harvestcraft:grapefruitsodaItem>);
+listAllsodas.add(<harvestcraft:appleciderItem>);
+
+val listAllsoups = <ore:listAllsoups>;
+listAllsoups.add(<harvestcraft:peaandhamsoupItem>);
+listAllsoups.add(<harvestcraft:pumpkinsoupItem>);
+listAllsoups.add(<etfuturum:beetroot_soup>);
+listAllsoups.add(<harvestcraft:carrotsoupItem>);
+listAllsoups.add(<harvestcraft:potatosoupItem>);
+listAllsoups.add(<harvestcraft:chickennoodlesoupItem>);
+listAllsoups.add(<harvestcraft:spidereyesoupItem>);
+listAllsoups.add(<harvestcraft:vegetablesoupItem>);
+listAllsoups.add(<harvestcraft:tomatosoupItem>);
+listAllsoups.add(<harvestcraft:asparagussoupItem>);
+listAllsoups.add(<harvestcraft:creamofavocadosoupItem>);
+listAllsoups.add(<harvestcraft:cactussoupItem>);
+listAllsoups.add(<harvestcraft:seedsoupItem>);
+listAllsoups.add(<harvestcraft:gardensoupItem>);
+listAllsoups.add(<harvestcraft:oldworldveggiesoupItem>);
+listAllsoups.add(<harvestcraft:lambbarleysoupItem>);
+listAllsoups.add(<harvestcraft:leekbaconsoupItem>);
+listAllsoups.add(<harvestcraft:potatoandleeksoupItem>);
+listAllsoups.add(<harvestcraft:onionsoupItem>);
+listAllsoups.add(<harvestcraft:cucumbersoupItem>);
+listAllsoups.add(<harvestcraft:ricesoupItem>);
+listAllsoups.add(<harvestcraft:beetsoupItem>);
+listAllsoups.add(<harvestcraft:creamedbroccolisoupItem>);
+listAllsoups.add(<harvestcraft:splitpeasoupItem>);
+listAllsoups.add(<harvestcraft:turnipsoupItem>);
+listAllsoups.add(<harvestcraft:celerysoupItem>);
+
+Milk
+listAllmilk.add(<harvestcraft:strawberrymilkshakeItem>);
+listAllmilk.add(<harvestcraft:chocolatemilkshakeItem>);
+listAllmilk.add(<harvestcraft:bananamilkshakeItem>);
+listAllmilk.add(<harvestcraft:gooseberrymilkshakeItem>);
+
+
+//////////////////////////
+///Minecraft
+recipes.remove(<minecraft:lead>);
+recipes.addShaped(<minecraft:lead>,
+	[	[ <RopesPlus:blockRope>  , <RopesPlus:blockRope>, null  ],
+		[ <RopesPlus:blockRope>  , <ore:stickystuff> , null  ],
+		[ null  , null , <RopesPlus:blockRope>  ]
+	]);
+
+recipes.remove(<minecraft:wool>);
+mods.witchinggadgets.SpinningWheel.addRecipe(<minecraft:wool>, [<WitchingGadgets:item.WG_Material>, <WitchingGadgets:item.WG_Material>, <WitchingGadgets:item.WG_Material>, <WitchingGadgets:item.WG_Material>, <WitchingGadgets:item.WG_Material>]); 
+mods.witchinggadgets.SpinningWheel.addRecipe(<minecraft:wool>, [<Botania:manaResource:16>, <Botania:manaResource:16>]);
+
+
+//////////////////////////
 ///Ex Nihilo
 mods.exnihilo.crucible.addRecipe(<ore:listAllveggie>, <liquid:water> * 50);
 mods.exnihilo.crucible.addRecipe(<ore:listAllfruit>, <liquid:water> * 50);
 mods.exnihilo.crucible.addRecipe(ore:listAllpepper, <liquid:water>* 10);
 
+
+//////////////////////////
+///Rope+
+recipes.remove(<RopesPlus:blockRope>);
+mods.witchinggadgets.SpinningWheel.addRecipe(<RopesPlus:blockRope>, [<WitchingGadgets:item.WG_Material>, <WitchingGadgets:item.WG_Material>, <WitchingGadgets:item.WG_Material>]);  //Könnte zwei nullen am Ende vertragen
+
+
+//////////////////////////
 ///Thaumcraft
 recipes.addShapeless(<Thaumcraft:blockMetalDevice>, [<ore:materialAspectShard> * 2, <exnihilo:crucible>]);
+mods.thaumcraft.Arcane.removeRecipe(<Thaumcraft:ItemResource:7>);  ///May cause issues (XXX)
+mods.witchinggadgets.SpinningWheel.addRecipe(<Thaumcraft:ItemResource:7>, [<Botania:manaResource:16>, <Botania:manaResource:16>, <Botania:manaResource:16>, <Botania:manaResource:16>, <Thaumcraft:ItemResource:6>]);
+mods.thaumcraft.Arcane.addShapeless("ENCHFABRIC", <Botania:manaResource:16>, "aqua 1, terra 1, perditio 1, ordo 1, aer 1, ignis 1" , [<minecraft:string>);
+mods.thaumcraft.Arcane.addShapeless("ENCHFABRIC", [<Botania:manaResource:16>*9], "aqua 7, terra 7, perditio 7, ordo 7, aer 7, ignis 7" , [<minecraft:string>*9);
+
+//////////////////////////
+///Witching Gadgets
+mods.thaumcraft.Arcane.removeRecipe(<WitchingGadgets:WG_WoodenDevice>);  					///Spinning Weehl
+recipes.addShaped(<WitchingGadgets:WG_WoodenDevice>,
+	[	[ null   , null , null  ],
+		[ <StevesCarts:ModuleComponents> , null  , <witchery:ingredient:7>  ],
+		[ null  , <Thaumcraft:blockTable> , null   ]
+	]);
+recipes.addShaped(<WitchingGadgets:WG_WoodenDevice>,
+	[	[ <StevesCarts:ModuleComponents> , null  , <witchery:ingredient:7>  ],
+		[ null  , <Thaumcraft:blockTable> , null   ]
+		[ null   , null , null  ],
+	]);
+
+
+//////////////////////////
+///Botania
+recipes.remove(<Botania:manaResource:22>);
+mods.witchinggadgets.SpinningWheel.addRecipe(<Botania:manaResource:22>, [<Botania:manaResource:16>, <Botania:manaResource:16>, <Botania:manaResource:16>, <Botania:manaResource:16>, <Botania:dye:*> ]);
+
+
+//////////////////////////
+///ExtraUtilities
+recipes.remove(<ExtraUtilities:decorativeBlock1:3>);
+mods.pneumaticcraft.Pressure.addRecipe([<ore:blockPackedIce> * 4, <ore:ice> * 16], 3, [<ExtraUtilities:decorativeBlock1:3>], true);
+mods.thaumcraft.Crucible.addRecipe("THAUMATORIUM", <ore:blockPackedIce>, <ExtraUtilities:decorativeBlock1:3>, "Gelum 6, Terra 4");
+
+
+//////////////////////////
+///Thermal Expansion
+recipes.remove(<ThermalFoundation:material:513>);
+mods.thaumcraft.Crucible.addRecipe("Colder than Ice", <ThermalFoundation:material:1025>, <ThermalFoundation:material:513>, "gelum 45, perditio 15");
+//Need Tech recept (xxx) -Eigenes zwischenpowder?
+
+
+//////////////////////////
+///Witchery
+recipes.remove(<witchery:ingredient:16>); //Quicklime
+recipes.addShapeless([<witchery:ingredient:16> * 2], [<witchery:ingredient:18> * 2, <minecraft:potion>.transformReplace(<minecraft:bottle>)]);
+
+
+//////////////////////////
+///Archimedis Ships +
+recipes.remove(<ArchimedesShipsPlus:engine>);
+recipes.addShaped(<ArchimedesShipsPlus:engine>,
+	[	[ null  , <Railcraft:machine.beta:3> , null  ],
+		[ null  , <Railcraft:machine.beta:5> , null  ],
+		[ <Railcraft:machine.beta:7>  , null , <Railcraft:machine.beta:7>  ]
+	]);
+recipes.addShaped(<ArchimedesShipsPlus:engine>,
+	[	[ null  , <Railcraft:machine.beta:3> , null  ],
+		[ null  , <Railcraft:machine.beta:5> , null  ],
+		[ null  , <Railcraft:machine.beta:8> , null  ]
+	]);
+recipes.addShaped(<ArchimedesShipsPlus:engine>,
+	[	[ null  , <Railcraft:machine.beta:3> , null  ],
+		[ null  , <StevesCarts:CartModule> , null  ],
+		[ null  , null , null  ]
+	]);
+
+recipes.remove(<ArchimedesShipsPlus:marker>);
+recipes.addShaped(<OpenBlocks:tank>,
+	[	[ <ore:gearWood>  , <ore:stick> , <ore:gearWood> ],
+		[ <ore:stick>, <TConstruct:frypanHead:2> , <ore:stick> ],
+		[ <ore:plankWood>  , <ore:stick> , <ore:plankWood>  ]
+	]);
+recipes.addShaped(<OpenBlocks:tank>,
+	[	[ <ore:allGear>  , <ore:stick> , <ore:allGear> ],
+		[ <ore:stick>, <ore:plateIron> , <ore:stick> ],
+		[ <ore:plankWood>  , <ore:stick> , <ore:plankWood>  ]
+	]);
+
+recipes.remove(<ArchimedesShipsPlus:balloon>);
+recipes.addShaped(<ArchimedesShipsPlus:balloon>,
+	[	[ <ore:blockCloth>  , <ore:blockCloth> , <ore:blockCloth> ],
+		[ <ore:blockCloth> , <Railcraft:fluid.steam.bottle> , <ore:blockCloth> ],
+		[ <ore:blockCloth> , <ore:stickystuff> , <ore:blockCloth> ]
+	]);
+
+recipes.addShaped(<ArchimedesShipsPlus:balloon>,
+	[	[ null  , <ore:blockCloth> , null ],
+		[ <ore:blockCloth> , <Railcraft:fluid.steam.bottle> , <ore:blockCloth> ],
+		[ <witchery:ingredient:7> , <ore:stickystuff> , <WitchingGadgets:item.WG_Material> ]
+	]);
+
+
+recipes.remove(<ArchimedesShipsPlus:balloon:1>);
+recipes.addShapeless(<ArchimedesShipsPlus:balloon:1>, [<ore:dyeOrange> * 2, <ArchimedesShipsPlus:balloon>]);
+
+recipes.remove(<ArchimedesShipsPlus:balloon:2>);
+recipes.addShaped(<OpenBlocks:tank>,
+recipes.addShapeless(<ArchimedesShipsPlus:balloon:2>, [<ore:dyeMagenta> * 2, <ArchimedesShipsPlus:balloon>]);
+
+recipes.remove(<ArchimedesShipsPlus:balloon:3>);
+recipes.addShapeless(<ArchimedesShipsPlus:balloon:3>, [<ore:dyeLightBlue> * 2, <ArchimedesShipsPlus:balloon>]);
+
+recipes.remove(<ArchimedesShipsPlus:balloon:4>);
+recipes.addShapeless(<ArchimedesShipsPlus:balloon:4>, [<ore:dyeYellow> * 2, <ArchimedesShipsPlus:balloon>]);
+
+recipes.remove(<ArchimedesShipsPlus:balloon:5>);
+recipes.addShapeless(<ArchimedesShipsPlus:balloon:5>, [<ore:dyeLime> * 2, <ArchimedesShipsPlus:balloon>]);
+
+recipes.remove(<ArchimedesShipsPlus:balloon:6>);
+recipes.addShapeless(<ArchimedesShipsPlus:balloon:6>, [<ore:dyePink> * 2, <ArchimedesShipsPlus:balloon>]);
+
+recipes.remove(<ArchimedesShipsPlus:balloon:7>);
+recipes.addShapeless(<ArchimedesShipsPlus:balloon:7>, [<ore:dyeGray> * 2, <ArchimedesShipsPlus:balloon>]);
+
+recipes.remove(<ArchimedesShipsPlus:balloon:8>);
+recipes.addShapeless(<ArchimedesShipsPlus:balloon:8>, [<ore:dyeLightGray> * 2, <ArchimedesShipsPlus:balloon>]);
+
+recipes.remove(<ArchimedesShipsPlus:balloon:9>);
+recipes.addShapeless(<ArchimedesShipsPlus:balloon:9>, [<ore:dyeCyan> * 2, <ArchimedesShipsPlus:balloon>]);
+
+recipes.remove(<ArchimedesShipsPlus:balloon:10>);
+recipes.addShapeless(<ArchimedesShipsPlus:balloon:10>, [<ore:dyePurple> * 2, <ArchimedesShipsPlus:balloon>]);
+
+recipes.remove(<ArchimedesShipsPlus:balloon:11>);
+recipes.addShapeless(<ArchimedesShipsPlus:balloon:11>, [<ore:dyeBlue> * 2, <ArchimedesShipsPlus:balloon>]);
+
+recipes.remove(<ArchimedesShipsPlus:balloon:12>);
+recipes.addShapeless(<ArchimedesShipsPlus:balloon:12>, [<ore:dyeBrown> * 2, <ArchimedesShipsPlus:balloon>]);
+
+recipes.remove(<ArchimedesShipsPlus:balloon:13>);
+recipes.addShapeless(<ArchimedesShipsPlus:balloon:13>, [<ore:dyeGreen> * 2, <ArchimedesShipsPlus:balloon>]);
+
+recipes.remove(<ArchimedesShipsPlus:balloon:14>);
+recipes.addShapeless(<ArchimedesShipsPlus:balloon:14>, [<ore:dyeRed> * 2, <ArchimedesShipsPlus:balloon>]);
+
+recipes.remove(<ArchimedesShipsPlus:balloon:15);
+recipes.addShapeless(<ArchimedesShipsPlus:balloon:15>, [<ore:dyeBlack> * 2, <ArchimedesShipsPlus:balloon>]);
+
+recipes.remove(<ArchimedesShipsPlus:seat>);
+recipes.addShaped(<ArchimedesShipsPlus:seat>,
+	[	[ <minecraft:leather>  , null , null ],
+		[ <minecraft:leather> , <minecraft:leather> , null ],
+		[ <ore:slabWood> , <ore:slabWood> , null ]
+	]);
+
+recipes.remove(<ArchimedesShipsPlus:crate_wood>);
+recipes.addShaped(<ArchimedesShipsPlus:crate_wood>,
+	[	[ <minecraft:leather>  , <minecraft:lead> , <minecraft:leather> ],
+		[ <minecraft:lead> , <harvestcraft:animaltrap> , <minecraft:lead> ],
+		[ <ore:slabWood> , <ore:slabWood> , <ore:slabWood> ]
+	]);
+
+recipes.remove(<ArchimedesShipsPlus:anchorPoint>);
+recipes.remove(<ArchimedesShipsPlus:buffer>);
+recipes.remove(<ArchimedesShipsPlus:stickyBuffer>);
+recipes.remove(<ArchimedesShipsPlus:floater>);
+///recipes.remove(<ArchimedesShipsPlus:gauge>);
+///recipes.remove(<ArchimedesShipsPlus:gauge:1>);
+
+(<Railcraft:fluid.steam.bottle>);
+(<Railcraft:machine.beta:3>
+
